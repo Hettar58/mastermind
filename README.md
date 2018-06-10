@@ -2,7 +2,7 @@
 Un mastermind simple conçu avec python
 
 ce programme se joue seul contre l'ordinateur.
-Les pions sont de 6 couleurs différentes: Jaune (J), Bleu(B), Rouge(R), Vert(V), Blanc(W), Noir (N)
+Les pions sont de 6 couleurs différentes: Jaune (J), Bleu(B), Rouge(R), Vert(V), Orange(O), Noir (N)
 Les règles du jeu sont les suivantes:
 L'ordinateur  élabore une comibinaison secrète de 4 pions colorés.
 
@@ -18,8 +18,6 @@ Si la combinaison est incorrecte:
 Si la combinaison est correcte, la partie s'arrète.
 
 # CORRECTIONS A EFFECTUER
-
--résoudre le problème lié au comptage des couleurs correctes
 
 -ajouter le code aléatoire à chaue début de partie
 
