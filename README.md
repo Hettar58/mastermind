@@ -19,6 +19,4 @@ Si la combinaison est correcte, la partie s'arrète.
 
 # CORRECTIONS A EFFECTUER
 
--ajouter le code aléatoire à chaue début de partie
-
 -faire une interface
